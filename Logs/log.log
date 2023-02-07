@@ -1,0 +1,394 @@
+2023-02-07 13:09:43,709 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 13:10:02,855 - INFO - REIL005 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:04,695 - INFO - LUMAX001 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:05,127 - INFO - SCORCH 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:05,240 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:10:05,741 - INFO - REIL002 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:06,841 - INFO - LUMEX 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:07,622 - INFO - RMU004 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:10,342 - INFO - EMCO 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:11,276 - INFO - REIL028 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:12,422 - INFO - REMCL011 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:14,128 - INFO - REMCL006 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:15,053 - INFO - REMCL004 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:15,164 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:10:15,998 - INFO - RMU056 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:18,213 - INFO - REMCL003 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:20,382 - INFO - RMU065 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:20,521 - INFO - REIL001 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:20,732 - INFO - ANJUMAN 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:20,969 - INFO - SOURA 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:21,109 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:10:21,544 - INFO - REMCL001 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:23,351 - INFO - RMU073 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:23,673 - INFO - BLISTER 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:25,524 - INFO - RMU075 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:25,677 - INFO - REMCL008 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:26,161 - INFO - REIL007 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:26,370 - INFO - RMU052 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:26,707 - INFO - RMU077 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:27,413 - INFO - REIL017 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:28,433 - INFO - RMU006 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:28,996 - INFO - RMU063 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:30,671 - INFO - ATHENESE 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:33,237 - INFO - TORRID 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:35,046 - INFO - REIL026 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:36,898 - INFO - FLAUNT 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:38,493 - INFO - REMCL012 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:38,512 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\REMCL012\Inverter_1'
+2023-02-07 13:10:42,300 - INFO - SPANGLE 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:42,320 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\SPANGLE\Inverter_41'
+2023-02-07 13:10:42,891 - INFO - REMCL002 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:42,902 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\REMCL002\Inverter_1'
+2023-02-07 13:10:43,971 - INFO - RMU027 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:43,983 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\RMU027\Inverter_1'
+2023-02-07 13:10:45,244 - INFO - REMCL009 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:45,256 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\REMCL009\Inverter_1'
+2023-02-07 13:10:46,944 - INFO - RMU076 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:49,490 - INFO - REIL027 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:49,768 - INFO - REIL019 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:49,780 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\REIL019\Inverter_1'
+2023-02-07 13:10:49,855 - INFO - RMU074 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:49,867 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\RMU074\Inverter_1'
+2023-02-07 13:10:51,797 - INFO - ANJUMAN 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:55,564 - INFO - REIL025 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:55,577 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\REIL025\Inverter_3'
+2023-02-07 13:10:56,443 - INFO - REMCL005 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:56,455 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\REMCL005\Inverter_1'
+2023-02-07 13:10:58,976 - INFO - RSPL 	 2023-02-07 13:10 	 - Data Received from Client.
+2023-02-07 13:10:58,991 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\RSPL\Inverter_1'
+2023-02-07 13:11:04,774 - INFO - LUMAX001 	 2023-02-07 13:11 	 - Data Received from Client.
+2023-02-07 13:11:10,578 - INFO - EMCO 	 2023-02-07 13:11 	 - Data Received from Client.
+2023-02-07 13:11:14,972 - INFO - REMCL004 	 2023-02-07 13:11 	 - Data Received from Client.
+2023-02-07 13:11:15,084 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:11:16,121 - INFO - RMU056 	 2023-02-07 13:11 	 - Data Received from Client.
+2023-02-07 13:12:05,076 - INFO - LUMAX001 	 2023-02-07 13:12 	 - Data Received from Client.
+2023-02-07 13:12:10,123 - INFO - EMCO 	 2023-02-07 13:12 	 - Data Received from Client.
+2023-02-07 13:12:15,030 - INFO - REMCL004 	 2023-02-07 13:12 	 - Data Received from Client.
+2023-02-07 13:12:15,144 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:12:16,109 - INFO - RMU056 	 2023-02-07 13:12 	 - Data Received from Client.
+2023-02-07 13:13:04,872 - INFO - LUMAX001 	 2023-02-07 13:13 	 - Data Received from Client.
+2023-02-07 13:13:10,419 - INFO - EMCO 	 2023-02-07 13:13 	 - Data Received from Client.
+2023-02-07 13:13:15,086 - INFO - REMCL004 	 2023-02-07 13:13 	 - Data Received from Client.
+2023-02-07 13:13:15,152 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:13:16,230 - INFO - RMU056 	 2023-02-07 13:13 	 - Data Received from Client.
+2023-02-07 13:14:04,918 - INFO - LUMAX001 	 2023-02-07 13:14 	 - Data Received from Client.
+2023-02-07 13:14:10,347 - INFO - EMCO 	 2023-02-07 13:14 	 - Data Received from Client.
+2023-02-07 13:14:15,171 - INFO - REMCL004 	 2023-02-07 13:14 	 - Data Received from Client.
+2023-02-07 13:14:15,263 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:14:16,230 - INFO - RMU056 	 2023-02-07 13:14 	 - Data Received from Client.
+2023-02-07 13:15:02,918 - INFO - REIL005 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:04,321 - INFO - SCORCH 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:04,512 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:15:04,886 - INFO - LUMAX001 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:05,795 - INFO - REIL002 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:07,633 - INFO - LUMEX 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:09,298 - INFO - RMU004 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:10,534 - INFO - EMCO 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:11,269 - INFO - REIL028 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:12,636 - INFO - REMCL011 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:14,136 - INFO - REMCL006 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:15,262 - INFO - REMCL004 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:15,370 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:15:16,292 - INFO - RMU056 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:18,310 - INFO - REMCL003 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:20,148 - INFO - RMU065 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:20,517 - INFO - REIL001 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:20,816 - INFO - ANJUMAN 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:20,972 - INFO - SOURA 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:21,140 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:15:21,645 - INFO - REMCL001 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:23,274 - INFO - RMU073 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:23,778 - INFO - BLISTER 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:25,702 - INFO - REIL007 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:25,899 - INFO - REMCL008 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:26,525 - INFO - RMU075 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:26,669 - INFO - RMU052 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:26,892 - INFO - RMU077 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:27,594 - INFO - REIL017 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:28,495 - INFO - RMU006 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:29,140 - INFO - RMU063 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:30,794 - INFO - ATHENESE 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:33,502 - INFO - TORRID 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:34,989 - INFO - REIL026 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:36,910 - INFO - FLAUNT 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:38,679 - INFO - REMCL012 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:42,336 - INFO - SPANGLE 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:43,704 - INFO - REMCL002 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:45,331 - INFO - REMCL009 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:47,108 - INFO - RMU076 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:49,745 - INFO - RMU074 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:49,878 - INFO - REIL027 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:50,023 - INFO - REIL019 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:51,794 - INFO - ANJUMAN 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:55,632 - INFO - REIL025 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:56,545 - INFO - REMCL005 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:15:59,336 - INFO - RSPL 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:16:04,989 - INFO - LUMAX001 	 2023-02-07 13:16 	 - Data Received from Client.
+2023-02-07 13:16:10,342 - INFO - EMCO 	 2023-02-07 13:16 	 - Data Received from Client.
+2023-02-07 13:16:15,718 - INFO - REMCL004 	 2023-02-07 13:16 	 - Data Received from Client.
+2023-02-07 13:16:15,817 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:16:16,334 - INFO - RMU056 	 2023-02-07 13:16 	 - Data Received from Client.
+2023-02-07 13:16:24,466 - INFO - RMU027 	 2023-02-07 13:15 	 - Data Received from Client.
+2023-02-07 13:17:05,065 - INFO - LUMAX001 	 2023-02-07 13:17 	 - Data Received from Client.
+2023-02-07 13:17:10,487 - INFO - EMCO 	 2023-02-07 13:17 	 - Data Received from Client.
+2023-02-07 13:17:15,379 - INFO - REMCL004 	 2023-02-07 13:17 	 - Data Received from Client.
+2023-02-07 13:17:15,507 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:17:16,376 - INFO - RMU056 	 2023-02-07 13:17 	 - Data Received from Client.
+2023-02-07 13:18:01,047 - INFO - REIL013 	 2023-02-07 07:35 	 - Data Received from Client.
+2023-02-07 13:18:01,062 - ERROR - Error in adding time stamp:Cannot save file into a non-existent directory: 'data\REIL013\Inverter_1'
+2023-02-07 13:18:05,017 - INFO - LUMAX001 	 2023-02-07 13:18 	 - Data Received from Client.
+2023-02-07 13:18:15,407 - INFO - EMCO 	 2023-02-07 13:18 	 - Data Received from Client.
+2023-02-07 13:18:16,349 - INFO - RMU056 	 2023-02-07 13:18 	 - Data Received from Client.
+2023-02-07 13:18:18,254 - INFO - REMCL004 	 2023-02-07 13:18 	 - Data Received from Client.
+2023-02-07 13:18:18,423 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:19:05,148 - INFO - LUMAX001 	 2023-02-07 13:19 	 - Data Received from Client.
+2023-02-07 13:19:10,703 - INFO - EMCO 	 2023-02-07 13:19 	 - Data Received from Client.
+2023-02-07 13:19:15,630 - INFO - REMCL004 	 2023-02-07 13:19 	 - Data Received from Client.
+2023-02-07 13:19:15,730 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:19:16,448 - INFO - RMU056 	 2023-02-07 13:19 	 - Data Received from Client.
+2023-02-07 13:20:02,984 - INFO - REIL005 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:04,257 - INFO - SCORCH 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:04,540 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:20:05,172 - INFO - LUMAX001 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:05,927 - INFO - REIL002 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:08,333 - INFO - RMU004 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:08,616 - INFO - LUMEX 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:10,531 - INFO - EMCO 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:11,347 - INFO - REIL028 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:12,838 - INFO - REMCL011 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:14,461 - INFO - REMCL006 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:15,623 - INFO - REMCL004 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:15,750 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:20:16,529 - INFO - RMU056 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:18,386 - INFO - REMCL003 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:20,476 - INFO - RMU065 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:20,654 - INFO - REIL001 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:20,853 - INFO - ANJUMAN 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:21,090 - INFO - SOURA 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:21,239 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:20:21,696 - INFO - REMCL001 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:23,573 - INFO - RMU073 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:23,827 - INFO - BLISTER 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:25,725 - INFO - RMU075 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:25,895 - INFO - REMCL008 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:26,532 - INFO - REIL007 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:26,781 - INFO - RMU052 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:27,092 - INFO - RMU077 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:27,571 - INFO - REIL017 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:28,026 - INFO - RMU006 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:28,961 - INFO - RMU063 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:30,876 - INFO - ATHENESE 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:33,299 - INFO - TORRID 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:35,450 - INFO - REIL026 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:37,813 - INFO - FLAUNT 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:38,549 - INFO - REMCL012 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:42,502 - INFO - SPANGLE 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:44,618 - INFO - REMCL002 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:45,429 - INFO - REMCL009 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:47,186 - INFO - RMU076 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:49,017 - INFO - REIL027 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:49,770 - INFO - RMU074 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:49,971 - INFO - REIL019 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:51,793 - INFO - ANJUMAN 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:55,373 - INFO - REIL025 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:56,504 - INFO - REMCL005 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:58,365 - INFO - RMU027 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:58,975 - INFO - REIL013 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:20:59,091 - INFO - RSPL 	 2023-02-07 13:20 	 - Data Received from Client.
+2023-02-07 13:21:05,166 - INFO - LUMAX001 	 2023-02-07 13:21 	 - Data Received from Client.
+2023-02-07 13:21:10,850 - INFO - EMCO 	 2023-02-07 13:21 	 - Data Received from Client.
+2023-02-07 13:21:16,585 - INFO - RMU056 	 2023-02-07 13:21 	 - Data Received from Client.
+2023-02-07 13:21:18,061 - INFO - REMCL004 	 2023-02-07 13:21 	 - Data Received from Client.
+2023-02-07 13:21:18,205 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:22:05,221 - INFO - LUMAX001 	 2023-02-07 13:22 	 - Data Received from Client.
+2023-02-07 13:22:11,103 - INFO - EMCO 	 2023-02-07 13:22 	 - Data Received from Client.
+2023-02-07 13:22:16,571 - INFO - RMU056 	 2023-02-07 13:22 	 - Data Received from Client.
+2023-02-07 13:22:18,079 - INFO - REMCL004 	 2023-02-07 13:22 	 - Data Received from Client.
+2023-02-07 13:22:18,213 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:23:05,236 - INFO - LUMAX001 	 2023-02-07 13:23 	 - Data Received from Client.
+2023-02-07 13:23:11,000 - INFO - EMCO 	 2023-02-07 13:23 	 - Data Received from Client.
+2023-02-07 13:23:16,586 - INFO - RMU056 	 2023-02-07 13:23 	 - Data Received from Client.
+2023-02-07 13:23:17,216 - INFO - REMCL004 	 2023-02-07 13:23 	 - Data Received from Client.
+2023-02-07 13:23:17,389 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:24:05,342 - INFO - LUMAX001 	 2023-02-07 13:24 	 - Data Received from Client.
+2023-02-07 13:24:11,018 - INFO - EMCO 	 2023-02-07 13:24 	 - Data Received from Client.
+2023-02-07 13:24:16,569 - INFO - RMU056 	 2023-02-07 13:24 	 - Data Received from Client.
+2023-02-07 13:24:17,056 - INFO - REMCL004 	 2023-02-07 13:24 	 - Data Received from Client.
+2023-02-07 13:24:17,182 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:25:03,105 - INFO - REIL005 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:04,351 - INFO - SCORCH 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:04,539 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:25:05,307 - INFO - LUMAX001 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:06,008 - INFO - REIL002 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:07,913 - INFO - RMU004 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:08,101 - INFO - LUMEX 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:10,955 - INFO - EMCO 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:11,359 - INFO - REIL028 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:13,147 - INFO - REMCL011 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:14,736 - INFO - REMCL006 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:16,495 - INFO - REMCL004 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:16,603 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:25:16,652 - INFO - RMU056 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:18,400 - INFO - REMCL003 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:20,226 - INFO - RMU065 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:20,640 - INFO - REIL001 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:20,891 - INFO - SOURA 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:20,970 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 13:25:21,011 - INFO - ANJUMAN 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:21,809 - INFO - REMCL001 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:23,356 - INFO - RMU073 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:23,935 - INFO - BLISTER 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:25,858 - INFO - REMCL008 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:26,137 - INFO - RMU075 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:26,200 - INFO - REIL007 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:26,705 - INFO - RMU052 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:27,716 - INFO - RMU077 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:27,861 - INFO - REIL017 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:28,553 - INFO - RMU006 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:29,073 - INFO - RMU063 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:30,944 - INFO - ATHENESE 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:33,181 - INFO - TORRID 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:35,194 - INFO - REIL026 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:38,289 - INFO - FLAUNT 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:38,740 - INFO - REMCL012 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:43,103 - INFO - SPANGLE 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:44,806 - INFO - REMCL002 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:44,932 - INFO - RMU027 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:45,514 - INFO - REMCL009 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:47,162 - INFO - RMU076 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:49,462 - INFO - REIL027 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:49,949 - INFO - RMU074 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:50,134 - INFO - REIL019 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:51,873 - INFO - ANJUMAN 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:53,867 - INFO - REIL013 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:55,440 - INFO - REIL025 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:56,814 - INFO - REMCL005 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:25:59,220 - INFO - RSPL 	 2023-02-07 13:25 	 - Data Received from Client.
+2023-02-07 13:48:17,092 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 13:48:36,031 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 13:48:54,474 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 13:50:06,177 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 13:50:25,044 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 13:52:48,637 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 13:57:15,736 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:02:45,846 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:03:02,338 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:04:38,613 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:05:01,761 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:05:13,899 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:09:29,001 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:09:42,430 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:09:53,823 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:10:13,337 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:12:14,898 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:12:37,361 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:14:22,424 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:14:59,816 - INFO - RSPL 	 2023-02-07 14:15 	 - Data Received from Client.
+2023-02-07 14:18:25,851 - INFO - REIL005 	 2023-02-07 14:15 	 - Data Received from Client.
+2023-02-07 14:19:03,845 - INFO - SCORCH 	 2023-02-07 14:15 	 - Data Received from Client.
+2023-02-07 14:20:01,818 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:20:23,217 - INFO - REIL002 	 2023-02-07 14:15 	 - Data Received from Client.
+2023-02-07 14:23:15,976 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:23:18,791 - INFO - EMCO 	 2023-02-07 14:23 	 - Data Received from Client.
+2023-02-07 14:24:03,487 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:24:08,103 - INFO - LUMAX001 	 2023-02-07 14:24 	 - Data Received from Client.
+2023-02-07 14:24:19,471 - INFO - EMCO 	 2023-02-07 14:24 	 - Data Received from Client.
+2023-02-07 14:24:29,569 - INFO - RMU056 	 2023-02-07 14:24 	 - Data Received from Client.
+2023-02-07 14:24:50,297 - INFO - REMCL004 	 2023-02-07 14:24 	 - Data Received from Client.
+2023-02-07 14:25:49,357 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:26:02,873 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:26:08,218 - INFO - LUMAX001 	 2023-02-07 14:26 	 - Data Received from Client.
+2023-02-07 14:26:19,435 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:27:08,278 - INFO - LUMAX001 	 2023-02-07 14:27 	 - Data Received from Client.
+2023-02-07 14:27:29,300 - INFO - EMCO 	 2023-02-07 14:27 	 - Data Received from Client.
+2023-02-07 14:27:35,878 - INFO - RMU056 	 2023-02-07 14:27 	 - Data Received from Client.
+2023-02-07 14:28:01,846 - INFO - REMCL004 	 2023-02-07 14:27 	 - Data Received from Client.
+2023-02-07 14:28:10,802 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:28:10,879 - INFO - LUMAX001 	 2023-02-07 14:28 	 - Data Received from Client.
+2023-02-07 14:28:16,168 - INFO - EMCO 	 2023-02-07 14:28 	 - Data Received from Client.
+2023-02-07 14:28:22,873 - INFO - REMCL004 	 2023-02-07 14:28 	 - Data Received from Client.
+2023-02-07 14:28:29,981 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:28:29,987 - INFO - RMU056 	 2023-02-07 14:28 	 - Data Received from Client.
+2023-02-07 14:29:08,441 - INFO - LUMAX001 	 2023-02-07 14:29 	 - Data Received from Client.
+2023-02-07 14:29:16,878 - INFO - EMCO 	 2023-02-07 14:29 	 - Data Received from Client.
+2023-02-07 14:29:21,090 - INFO - RMU056 	 2023-02-07 14:29 	 - Data Received from Client.
+2023-02-07 14:29:32,776 - INFO - REMCL004 	 2023-02-07 14:29 	 - Data Received from Client.
+2023-02-07 14:29:38,136 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:30:00,034 - INFO - RSPL 	 2023-02-07 14:30 	 - Data Received from Client.
+2023-02-07 14:30:09,233 - INFO - REIL005 	 2023-02-07 14:30 	 - Data Received from Client.
+2023-02-07 14:30:16,046 - INFO - REIL002 	 2023-02-07 14:30 	 - Data Received from Client.
+2023-02-07 14:32:12,052 - INFO - LUMEX 	 2023-02-07 14:30 	 - Data Received from Client.
+2023-02-07 14:32:18,237 - INFO - LUMAX001 	 2023-02-07 14:30 	 - Data Received from Client.
+2023-02-07 14:32:24,776 - INFO - SCORCH 	 2023-02-07 14:30 	 - Data Received from Client.
+2023-02-07 14:32:29,168 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:32:29,409 - INFO - REIL028 	 2023-02-07 14:30 	 - Data Received from Client.
+2023-02-07 14:32:51,947 - INFO - Starting Service Huron Consumer v1.6
+2023-02-07 14:33:08,673 - INFO - LUMAX001 	 2023-02-07 14:33 	 - Data Received from Client.
+2023-02-07 14:33:13,897 - INFO - EMCO 	 2023-02-07 14:33 	 - Data Received from Client.
+2023-02-07 14:33:19,603 - INFO - REMCL004 	 2023-02-07 14:33 	 - Data Received from Client.
+2023-02-07 14:33:19,713 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:33:19,756 - INFO - RMU056 	 2023-02-07 14:33 	 - Data Received from Client.
+2023-02-07 14:34:08,694 - INFO - LUMAX001 	 2023-02-07 14:34 	 - Data Received from Client.
+2023-02-07 14:34:19,161 - INFO - EMCO 	 2023-02-07 14:34 	 - Data Received from Client.
+2023-02-07 14:34:19,885 - INFO - RMU056 	 2023-02-07 14:34 	 - Data Received from Client.
+2023-02-07 14:34:20,455 - INFO - REMCL004 	 2023-02-07 14:34 	 - Data Received from Client.
+2023-02-07 14:34:20,718 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:35:00,129 - INFO - RSPL 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:04,121 - INFO - REIL005 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:04,732 - INFO - SCORCH 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:05,018 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:35:07,089 - INFO - REIL002 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:07,819 - INFO - LUMEX 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:08,730 - INFO - LUMAX001 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:12,241 - INFO - REIL028 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:14,260 - INFO - EMCO 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:16,047 - INFO - REMCL011 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:17,774 - INFO - REMCL006 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:19,320 - INFO - REMCL003 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:19,850 - INFO - RMU004 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:20,066 - INFO - RMU056 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:20,644 - INFO - REMCL004 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:20,803 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:35:21,210 - INFO - SOURA 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:21,421 - ERROR - "['fwd_run_secs', 'kvah_f', 'kvah_r', 'kvarh_f', 'kvarh_r', 'kwh_f_5min', 'kwh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:35:21,533 - INFO - REIL001 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:22,060 - INFO - ANJUMAN 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:22,727 - INFO - REMCL001 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:24,517 - INFO - RMU073 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:25,134 - INFO - BLISTER 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:26,372 - INFO - RMU065 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:26,945 - INFO - REMCL008 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:27,530 - INFO - REIL007 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:27,723 - INFO - RMU075 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:27,944 - INFO - RMU052 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:28,562 - INFO - RMU077 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:28,717 - INFO - REIL017 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:29,529 - INFO - RMU006 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:30,149 - INFO - RMU063 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:32,007 - INFO - ATHENESE 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:34,785 - INFO - TORRID 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:37,352 - INFO - REIL026 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:39,737 - INFO - FLAUNT 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:39,986 - INFO - REMCL012 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:43,855 - INFO - SPANGLE 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:46,173 - INFO - REMCL009 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:46,576 - INFO - REMCL002 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:48,271 - INFO - RMU076 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:49,912 - INFO - REIL027 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:51,065 - INFO - RMU074 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:51,231 - INFO - REIL019 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:54,964 - INFO - RMU027 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:56,356 - INFO - REIL025 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:35:57,941 - INFO - REMCL005 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:36:08,787 - INFO - LUMAX001 	 2023-02-07 14:36 	 - Data Received from Client.
+2023-02-07 14:36:14,130 - INFO - EMCO 	 2023-02-07 14:36 	 - Data Received from Client.
+2023-02-07 14:36:19,734 - INFO - RMU056 	 2023-02-07 14:36 	 - Data Received from Client.
+2023-02-07 14:36:20,118 - INFO - ANJUMAN 	 2023-02-07 14:35 	 - Data Received from Client.
+2023-02-07 14:36:20,290 - INFO - REMCL004 	 2023-02-07 14:36 	 - Data Received from Client.
+2023-02-07 14:36:20,442 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
+2023-02-07 14:37:09,214 - INFO - LUMAX001 	 2023-02-07 14:37 	 - Data Received from Client.
+2023-02-07 14:37:14,083 - INFO - EMCO 	 2023-02-07 14:37 	 - Data Received from Client.
+2023-02-07 14:37:19,907 - INFO - RMU056 	 2023-02-07 14:37 	 - Data Received from Client.
+2023-02-07 14:37:20,559 - INFO - REMCL004 	 2023-02-07 14:37 	 - Data Received from Client.
+2023-02-07 14:37:20,761 - ERROR - "['fwd_run_secs', 'kvarh_f', 'kvarh_r', 'rev_run_secs'] not in index"
