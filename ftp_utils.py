@@ -14,11 +14,11 @@ class FtpUtils:
         Initialize Utils Class
         """
         self.url = 'ftp.prescinto.com'
-        self.uiserid = 'Refex_Test'
+        self.uiserid = 'Refex'
         self.passwd = 'Welcome@123'
-        '''self.url1 = 'ftp.prescinto.com'
+        self.url1 = 'ftp.prescinto.com'
         self.uiserid1 = 'Refex_Test'
-        self.passwd1 = 'Welcome@123'''
+        self.passwd1 = 'Welcome@123'
         self.logger = logger
 
     def save_json_to_ftp(self, json_data):
@@ -60,7 +60,7 @@ class FtpUtils:
                 return False
         return True
 
-    '''def get_file_ftp(self, file_name, dir=""):
+    def get_file_ftp(self, file_name, dir=""):
         ftp = FTP(self.url1)
         try:
             ftp.login(user=self.uiserid1, passwd=self.passwd1)
@@ -74,7 +74,7 @@ class FtpUtils:
             self.logger.error(e)
         finally:
             ftp.quit()
-        return None, False'''
+        return None, False
 
     def save_file_to_ftp(self, file_name, dir=""):
         """Save File to FTP (Generic)
