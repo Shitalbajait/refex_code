@@ -84,13 +84,16 @@ class HuronProcess:
             total_time_list = []
             down_time_list = []
             for i in range(0, df.shape[0]):
-                if comp == 'inverter' or comp == 'SCB':
-                    i = df['node_id'].iloc[i]
                 dir_name = self.__get_ftp_directory(plant_name, comp, i)
-
+                if plant_name in One_Min_Interval_Data_Stations:
+                    frequency = 1
+                else:
+                    frequency = 5
+                data = [
+                    {'Date': df['Date'].iloc[-1], 'Time': df['Time'].iloc[-1], 'Project_name': plant_name,
+                     'Device': dir_name.split('/')[1], 'Status_code': 1, 'frequency': frequency}]
+                # self.check_data_received_or_not(data)
                 current_file_with_path = 'data/' + dir_name + '/' + current_file_name
-                if comp == 'SCB':
-                    df = df.drop(['node_id'], axis=1)
                 if self.__get_local_file(dir_name, current_file_name):  # Append Data to Existing File
                     df_remote = pd.read_csv(current_file_with_path)
                     time_dt = df.iloc[[i]].iloc[0][1]  # Get Time Data
@@ -103,7 +106,7 @@ class HuronProcess:
                             total_time_list.append(total_time)
                             down_time_list.append(down_time)
 
-                        if comp == 'inverter' and i == df['node_id'].max():
+                        if comp == 'inverter' and i == (df.shape[0] - 1):
                             try:
                                 total_time = int(max(total_time_list))
                                 down_time = int(sum(down_time_list))
@@ -124,7 +127,6 @@ class HuronProcess:
                             wms_columns = ['Date', 'Time', 'irradience', 'ambient_temp', 'ghi', 'irradiance_tdf',
                                            'temperature', 'node_id', 'POA Instantaneous Energy', 'Daily POA Energy']
                             df_remote = pd.concat([pd.DataFrame(columns=wms_columns), df_remote])
-
 
                         if Time_Now >= Condition_Time:
                             if plant_name in One_Min_Interval_Data_Stations:
@@ -153,7 +155,6 @@ class HuronProcess:
                         else:
                             df_remote.to_csv(current_file_with_path, index=False)
 
-
                         cnt = 0
                         while cnt < 3:
                             if FtpUtils(self.logger).save_file_to_ftp(current_file_with_path, dir_name):
@@ -177,13 +178,13 @@ class HuronProcess:
 
     def __get_ftp_directory(self, plant_name, comp, count):
         if comp == 'inverter':
-            dir = plant_name + '/Inverter_' + str(count)
+            dir = plant_name + '/Inverter_' + str(count + 1)
         elif comp == 'MFM':
             dir = plant_name + '/MFM'
         elif comp == 'WS':
             dir = plant_name + '/WS'
         elif comp == 'SCB':
-            dir = plant_name + '/SCB_' + str(count)
+            dir = plant_name + '/SCB_' + str(count + 1)
         else:
             dir = ''
         return dir
@@ -292,7 +293,7 @@ class HuronProcess:
     def __get_scb_data_df(self, scb_data):
         col_scb = ['Date', 'Time', 'Switch', 'Power', 'SPD', 'temperature', 'total_current', 'voltage', 'current/0',
                    'current/1', 'current/2', 'current/3', 'current/4', 'current/5', 'current/6', 'current/7',
-                   'current/8', 'current/9', 'current/10', 'current/11', 'current/12', 'current/13','node_id']
+                   'current/8', 'current/9', 'current/10', 'current/11', 'current/12', 'current/13']
         df1 = pd.DataFrame(columns=col_scb)
         scb_info = []
         for scb in scb_data:
